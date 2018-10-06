@@ -1,0 +1,485 @@
+.btn-default-outline {
+	
+	background-color: transparent !important;
+	color: #b1bcc3 !important;
+	border-color: #ffffff !important;
+	
+}
+
+.btn-default-outline:hover {
+    color: #5aa9ff !important;
+    background-color: transparent !important;
+    border-color: #ffffff !important;
+	
+}
+
+
+.btn-commentPost-outline {
+	
+	background-color: transparent !important;
+	color: #b1bcc3 !important;
+	border: 1px solid #c9d0d6 !important;
+	border-radius: 0px !important;
+	
+}
+
+.btn-commentPost-outline:hover {
+    color: #ffffff !important;
+    background-color: #00c3ff !important;
+    border: 1px solid #00c3ff !important;
+	
+}
+
+
+.btn-media-outline {
+	
+	background-color: transparent !important;
+	color: #606e77 !important;
+	border-radius: 0px !important;
+
+}
+
+.btn-postAction-outline {
+	
+	background-color: transparent !important;
+	color: #7c868c !important;
+	border-radius: 0px !important;
+	border: none !important;
+	
+}
+
+.btn-commentAction-outline {
+	
+	background-color: transparent !important;
+	color: #1581f4 !important;
+	border-radius: 0px !important;
+	border: none !important;
+	
+}
+
+.btn-media-outline:hover {
+    color: #ffffff !important;
+    background-color: #5aa9ff !important;
+    border-radius: 0px !important;
+    border-color: #5aa9ff !important;
+
+    
+}
+
+
+
+
+
+
+.btn-post-outline {
+	
+	background-color: transparent !important;
+	color: #b1bcc3 !important;
+	border-radius: 0px !important;
+
+}
+
+.btn-post-outline:hover {
+    color: #ffffff !important;
+    background-color: #00c3ff !important;
+    border-radius: 0px !important;
+    border-color: #b1bcc3 !important;
+    
+}
+
+
+.btn-post {
+	
+	background-color: #5aa9ff !important;
+	color: #ffffff !important;
+	border-radius: 0px !important;
+	border-color: #5aa9ff !important;
+
+}
+
+.btn-post:hover {
+    color: #ffffff !important;
+    background-color: #1988ff !important;
+    border-radius: 0px !important;
+    border-color: #1988ff !important;
+    
+}
+
+
+.btn-commentPost-outline-focused {
+    color: #00c3ff !important;
+    background-color: transparent !important;
+    border: 1px solid #00c3ff !important;
+	
+}
+
+
+
+.btn-primary-outline {
+	
+	background-color: transparent !important;
+	color: #00a6ff !important;
+	border-color: #00a6ff !important;
+	border-radius: 0px !important; 
+	border: none !important;
+	
+}
+
+.btn-primary-outline:hover {
+    color: #ffffff !important;
+    background-color: #00a6ff !important;
+    border-color: #00a6ff !important;
+	
+}
+
+
+.btn-info-outline {
+    color: #00a6ff !important;
+    background-color: transparent;
+    border-color: #00a6ff !important;
+}
+
+.btn-info-outline:hover {
+    color: #ffffff !important;
+    background-color: #00a6ff !important;
+    border-color: #00a6ff !important;
+}
+
+
+.userName {
+	
+	color: black;
+	font-weight: 500;
+	font-size: 20px;
+	margin-top: auto !important;
+}
+
+
+
+.posts {
+	
+	margin-top: 12px;
+	
+}
+
+.divide {
+	
+	margin-left: 5px;
+	margin-right: 5px;
+	
+}
+
+#newpost {
+	
+	min-height: 40px;
+	
+}
+
+.boxFooter {
+	
+	margin-top: 10px !important;
+	margin-left: 10px !important;
+	
+}
+
+
+.media {
+
+	margin-top: 10px !important;
+	
+}
+
+textarea {
+	
+	resize: none;
+	border: 0px !important;
+	box-shadow: none !important;
+	padding-left: 0px !important;
+	
+}
+
+.cover {
+  object-fit: cover;
+ 
+}
+
+
+.thumb {
+    width: 80px;
+    height: 80px;
+    float: none;
+    position: relative;
+    object-fit: cover;
+}
+
+form .progress {
+    line-height: 15px;
+}
+
+
+
+input[type='file'] {
+  color: transparent;
+}
+
+input {
+	-moz-box-shadow:    inset 0 0 0px white;
+   -webkit-box-shadow: inset 0 0 0px white;
+   box-shadow:         inset 0 0 0px white;
+}
+
+.navbar-toggle:focus {
+    background-color: #5aa9ff !important;
+}
+
+.navbar-toggle:hover {
+    background-color: #5aa9ff !important;
+}
+
+
+.navbar-inverse .navbar-toggle {
+    border-color: #5aa9ff !important;
+}
+
+
+.app-navbar .form-control {
+    border-color: #5aa9ff !important;
+}
+
+.navbar-inverse {
+	
+	background-color: #5aa9ff !important;	
+	border-color: #5aa9ff !important;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #5aa9ff !important;
+}
+
+.navbar {
+	
+	background-color: #5aa9ff !important;
+}
+
+.progress-bar {
+	
+	background-color: #5aa9ff !important;
+	
+}
+
+.shadow-box {
+	
+	border: none !important;
+	border-radius: 0px !important;
+	position: relative; 
+
+	font-weight: 300 !important; 
+	font-size: 20px !important;
+	
+	color: #939393 !important;
+	margin-top: 1px !important;
+
+}
+
+.shadow-box-controll {
+	
+	border: none !important;
+	border-radius: 0px !important;
+	position: relative; 
+	
+	font-weight: 300 !important; 
+	font-size: 20px !important;
+	color: #939393 !important;
+
+	margin-bottom: 1px !important;
+	height: 36px !important;
+}
+
+.shadow-box-postcontroll {
+	
+	border-top: 1px solid rgba(184,  184,  184, 0.23) !important;
+	
+	border-radius: 0px !important;
+	position: relative; 
+	
+	font-weight: 400 !important; 
+	color: #939393 !important;
+	
+}
+
+.shadow-box-post {
+	
+	border: none;
+	border-top: 1px solid rgba(184, 184, 184, 0.45) !important;
+	border-radius: 0px !important;
+	position: relative; 
+		font-weight: 300 !important; 
+	font-size: 20px !important;
+	
+	color: #939393 !important;
+	
+
+	margin-top: 1px !important;
+}
+
+.comment-box {
+	
+	border: 1px solid #f1f1f1 !important; 
+	
+	position: relative; 
+	
+	font-weight: 300 !important; 
+	font-size: 12px !important;
+	
+	color: #939393 !important;
+	background-color: #f6f7f8;
+}
+
+
+.post-footer {
+	
+	border: 1px solid #f1f1f1 !important; 
+	border-top: none !important;
+	position: relative; 
+	
+
+	font-weight: 300 !important; 
+	font-size: 12px !important;
+
+	color: #939393 !important;
+	background-color: #ffffff;
+}
+
+
+.myComment {
+	
+	border-left: 3px solid #5aa9ff;
+	margin-left: -11px !important;
+	padding-left: 5px !important;
+	
+}
+
+
+.post-box {
+	
+	border: 1px solid #f1f1f1 !important; 
+	border-radius: 0px !important;
+	position: relative; 
+
+	font-weight: 300 !important; 
+	font-size: 15px !important;
+	
+	color: #000000 !important;
+	
+
+}
+
+
+.link-box {
+	
+	border-radius: 0px !important;
+	position: relative; 
+	font-weight: 300 !important; 
+	font-size: 13px !important;
+	color: #000000 !important;
+	
+
+}
+
+
+body {
+	
+	background-color: rgba(233,  235,  238, 0.7);
+	
+}
+
+.postText {
+	
+	font-size: 14px;
+	font-weight: 500;
+	color: black;
+	padding-bottom: 10px !important;
+	
+}
+
+.postAction {
+
+	border-top:  1px dotted #d8d9d9 !important;
+	
+}
+
+.location {
+	
+	font-size: small !important;
+	font-weight: 500 !important;
+	
+	
+}
+
+
+.likeCheck {
+	color: #5aa9ff !important;
+}
+
+.likeCheck strong a {
+	color: #5aa9ff !important;
+}
+
+.commentName {
+	color: #5aa9ff !important;
+}
+
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+
+  word-wrap: break-word;
+
+
+}
+
+.editHover:hover {
+	
+	background-color: #5aa9ff;
+	
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.locInput {
+	
+	border-radius: 0px !important;
+	border: none !important;
+
+}
+
+/* Wichtig: z-Index für locInput, da Ergebnisse sonst nicht im Vordergrund erscheinen! */
+.pac-container {
+    z-index: 100000;
+}
+
+#locLink {
+	color: black !important;
+	text-decoration: none !important;
+}
+
+.locatonList:hover {
+	color: black !important;
+	background-color: rgba(222, 222, 222, 0.83) !important;
+	text-decoration: none !important;
+}
